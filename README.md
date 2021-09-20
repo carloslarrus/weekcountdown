@@ -1,9 +1,3 @@
 # Weekend Countdown
 
-1. Create a mini app that takes in a users name and returns the following;
-
-    - A greeting with the users name.
-    - Current day
-    - Days left till the weekend
-
-// To fix it
+The user should introduce her/his name, after clicking it will be returned a message where it will be the name introduced and how many days should wait for the weekend, in case it is already weekend a congratulation message will appear.
